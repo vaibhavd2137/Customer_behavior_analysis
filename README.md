@@ -1,6 +1,5 @@
 # Customer_behavior_analysis
-Data analytics Project using Python,MySql,PowerBi
- Customer Shopping Behavior Analysis
+Customer Shopping Behavior Analysis
 A complete end-to-end data analytics project exploring customer shopping behavior using Python, MySQL, and Power BI. The goal is to understand spending patterns, customer segments, product preferences, and subscription behavior to support data-driven business decisions.
 1. Overview
 This project analyzes 3,900 customer transactions containing demographic details, purchase patterns, product choices, and shopping behavior.
